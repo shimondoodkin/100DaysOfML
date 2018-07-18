@@ -1,9 +1,9 @@
 # 100 Days Of ML - LOG
 
-## Day 0 : June 30 , 2018
+## Day 0 : Jul 18 , 2018
  
-**Today's Progress** : I have setup all the things I needed to complete this challenge and also completed chosing the projects I will work on .
-
+**Today's Progress** : watch siraj videos
+<!--
 **Thoughts** : Hope this will be exiciting ,will help me in learning Machine Learning in a more effective way .
 
 ## Day 1 : Jul 1 , 2018
@@ -152,3 +152,5 @@
 **Thoughts** : Decision trees are very efficient algorithm , hoping to learn a lot .
 
 **Link of Work:** [Decision Tree 1](https://github.com/LordSomen/100DaysOfML/commit/7840457267f2ed38aac6b3fe7bfe276e03f887a6)
+
+-->
